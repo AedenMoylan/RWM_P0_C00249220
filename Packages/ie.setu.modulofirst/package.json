@@ -1,0 +1,7 @@
+{
+  "name": "ie.setu.modulofirst",
+  "version": "0.1.0",
+  "displayName": "ModuloFirst",
+  "description": "The first integer in the list is n. Replace each integer by itself mod n.",
+  "unity":  "2021.3"
+}
