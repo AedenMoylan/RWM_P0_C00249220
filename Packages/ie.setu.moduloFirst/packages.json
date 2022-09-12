@@ -1,0 +1,7 @@
+{
+  "name": "ie.setu.moduloFirst",
+  "version": "0.1.0",
+  "displayName": "ModuloFirst",
+  "description": "A filter that replaces a number with itself modolus the first number in the list.",
+  "unity": "2021.3"
+}
