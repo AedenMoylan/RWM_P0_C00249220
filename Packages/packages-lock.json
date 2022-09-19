@@ -231,6 +231,18 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "ie.setu.fizzbuzz": {
+      "version": "file:ie.setu.fizzbuzz",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "ie.setu.modulofirst": {
+      "version": "file:ie.setu.modulofirst",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
